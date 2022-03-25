@@ -1,0 +1,421 @@
+[
+
+    {
+        "id": 1,
+        "category_id": 5,
+        "name":"insanity",
+        "age":"18+",
+        "description":"Following a breakdown, forensics investigator Paula is admitted to a psychiatric hospital. There, she is pulled into the most terrifying corners of her mind.",
+        "image":"https://i.ibb.co/HPT5Kpb/1105934-h-badb7cdab145.jpg",
+        "year": 2022 ,
+        "language" :"english"
+
+        
+    },
+    {
+        "id": 2,
+        "category_id": 5,
+        "name":"parampara",
+        "age":"18+",
+        "description":"For years, Naidu has kept everyone under his ruthless rule, until his nephew, Gopi, decides to challenge him and bring down his empire of injustice.",
+        "image":"https://i.ibb.co/DktQ11m/latestandtrending2.jpg",
+        "year": 2021,
+        "language" :"telugu"
+
+        
+    },
+    {
+        "id":3 ,
+        "category_id": 5,
+        "name":"rudra",
+        "age":"18+",
+        "description":"In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds is brilliant supercop Rudraveer Singh, guarding against their darkness.",
+        "image":"https://i.ibb.co/R6KJDZ1/rudra.webp",
+        "year": 2022,
+        "language": "multi-lang"
+
+        
+    } ,
+    {
+        "id": 4,
+        "category_id": 5,
+        "name":"the great indian murder",
+        "age":"16+",
+        "description":"When notorious industrialist Vicky Rai is shot dead at his own party, the main suspects are the guests, both invited and uninvited. ",
+        "image":"https://i.ibb.co/jMD1fh0/g.jpg",
+        "year": 2022,
+        "language": "multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 5,
+        "category_id":5 ,
+        "name":"human",
+        "age":"18+",
+        "description":"In the race to make the next money-spinning drug, saving lives takes a backseat and people become less than human. Step into the murky world of drug trials.",
+        "image":"https://i.ibb.co/7rnRWZb/human.jpg",
+        "year": 2022,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+
+
+    {
+        "id": 6,
+        "category_id":1 ,
+        "name":"A thursday",
+        "age":"13+",
+        "description":"Naina, a playschool teacher, takes 16 students hostage. Rattling the police and the leaders, her demands send shockwaves through the country.",
+        "image":"https://i.ibb.co/pRVRw4J/A-Thursday.jpg",
+        "year": 2022,
+        "language":"hindi"
+
+        
+    } ,
+    {
+        "id": 7,
+        "category_id":1 ,
+        "name":"tadap",
+        "age":"13+",
+        "description":"Passionate Ishana falls madly in love with Ramisa. As their love grows stronger by the day, fate plays villain and throws one hurdle after another.",
+        "image":"https://i.ibb.co/FqPPGSz/TADAP.jpg",
+        "year": 2021,
+        "language":"hindi"
+
+        
+    } 
+    ,
+    {
+        "id": 8,
+        "category_id":1 ,
+        "name":"maaran",
+        "age":"16+",
+        "description":"Madhimaaran Sathyamoorthy is an honest investigative journalist. When he uncovers a scam, the professional risks start threatening his personal happiness.",
+        "image": "https://i.ibb.co/ypcJDBJ/1128864-v-53fdf8dc9efb.jpg",
+        "year": 2022,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 9,
+        "category_id":1 ,
+        "name":"eternals",
+        "age":"13+",
+        "description":"The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history, and civilizations",
+        "image":"https://i.ibb.co/nn4b8RW/eternals.jpg",
+        "year": 2021,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 10,
+        "category_id":1 ,
+        "name":"hero",
+        "age":"16+",
+        "description":"An aspiring actor Arjun mistakenly receives a courier that leads him to cross paths with real-time gangsters. In an attempt to trace its origin, he unfolds a mystery.",
+        "image":"https://i.ibb.co/B49Mrdb/hero.jpg",
+        "year": 2022,
+        "language":"telugu"
+
+        
+    } 
+    ,
+    {
+        "id": 11,
+        "category_id":2 ,
+        "name":"csk vs kkr",
+        "age":"U",
+        "description":"Chennai Super Kings take on Kolkata Knight Riders in the TATA IPL 2022 opener and here are a few imp ...",
+        "image":"https://i.ibb.co/r5jV087/1161317-h-7eec1ee80b9c.jpg",
+        "year": 2021,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 12,
+        "category_id":2 ,
+        "name":"highlights aus vs ban",
+        "age":"U",
+        "description":"The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history, and civilizations",
+        "image":"https://i.ibb.co/hCycvBk/1161533-h-3a7233a8e45d.jpg",
+        "year": 2022,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 13,
+        "category_id":2 ,
+        "name":"lsg",
+        "age":"U",
+        "description":"Debutants Lucknow Super Giants are ready to take TATA IPL 2022 by storm. Watch their power packed pr ...",
+        "image":"https://i.ibb.co/Zx1jV88/1161175-h-e0fe160b2408.jpg",
+        "year": 2022,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 14,
+        "category_id":2 ,
+        "name":"Team of the Season ft. Samad, Stewart",
+        "age":"U",
+        "description":"Check out which of your favourite stars made it to the Hero ISL 2021/22 team of the season",
+        "image":"https://i.ibb.co/ZM12CBz/1160373-h-5e1eda51b569.jpg",
+        "year": 2021,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 15,
+        "category_id":2 ,
+        "name":"player of the season ft.Ogbeche",
+        "age":"U",
+        "description":"Bartholomew Ogbeche had a stellar Hero ISL 2021/22 season as he scored a record-equaling 18 goals in ...",
+        "image":"https://i.ibb.co/hRzJ1XZ/1160374-h-005353a7d5bb.jpg",
+        "year": 2022,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 16,
+        "category_id":3 ,
+        "name":"mulan",
+        "age":"13+",
+        "description":"Masquerading as a male soldier to protect her father and tested every step of the way, Mulan must harness her inner-strength and embrace her true potential.",
+        "image":"https://i.ibb.co/N1f4S84/recommended8.jpg",
+        "year": 2020,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 17,
+        "category_id":3 ,
+        "name":"boba fett",
+        "age":"7+",
+        "description":"No longer just a hired gun, Boba Fett reinvents himself on Tatooine alongside Fennec Shand.",
+        "image":"https://i.ibb.co/CW75LJG/latestandtrending1.jpg",
+        "year": 2021,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 18,
+        "category_id":3 ,
+        "name":"hawk-eye",
+        "age":"13+",
+        "description":"Clint Barton/Hawkeye must team up with skilled archer Kate Bishop to unravel a criminal conspiracy.",
+        "image":"https://i.ibb.co/sQ0dMxv/latestandtrending5.jpg",
+        "year": 2021,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 19,
+        "category_id":3 ,
+        "name":"tadap",
+        "age":"13+",
+        "description":"The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history, and civilizations",
+        "image":"https://i.ibb.co/FqPPGSz/TADAP.jpg",
+        "year": 2021,
+        "language":"hindi"
+
+        
+    } 
+    ,
+    {
+        "id": 20 ,
+        "category_id":3 ,
+        "name":"pirates of caribbean",
+        "age":"13+",
+        "description":"Captain Jack Sparrow journeys to the fabled Fountain of Youth when a woman from his past forces him to board the ship of his nemesis Blackbeard.",
+        "image":"https://i.ibb.co/Ntm677H/recommended12.jpg",
+        "year": 2011,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 21 ,
+        "category_id":4 ,
+        "name":"bhaagam bhag",
+        "age":"U",
+        "description":"Boarding the school bus is an exciting adventure for Sunny, who gets pulled into crazy situations every day. Join him on another thrilling escapade!",
+        "image":"https://i.ibb.co/V28j5pX/K5.png",
+        "year": 2019,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 22,
+        "category_id":4 ,
+        "name":"selfie with bajrangi",
+        "age":"U",
+        "description":"Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him. Together, they learn the importance of togetherness, friendship, and trust.",
+        "image":"",
+        "year": 2019,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 23,
+        "category_id":4 ,
+        "name":"dabangg",
+        "age":"7+",
+        "description":"The series chronicles the day to day life of police officer Chulbul Pandey, who stands in the face of evil to keep the city safe.",
+        "image":"https://i.ibb.co/s9JpMKX/K1.jpg",
+        "year": 2021,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id":24 ,
+        "category_id":4 ,
+        "name":"Vir-the robot boy",
+        "age":"U",
+        "description":"A humanoid robot child with superhuman qualities, Vir always saves the day at Fursatganj, but not without his best buddies Imli, Chulbul and Gintu.",
+        "image":"https://i.ibb.co/gVjjrkX/K3.jpg",
+        "year": 2020,
+        "language":"multi-lang"
+
+        
+    } 
+    ,
+    {
+        "id": 25,
+        "category_id":4 ,
+        "name":"chacha bhatija",
+        "age":"U",
+        "description":"Chacha and Bhatija, the uncle-nephew duo ‘world-famous’ in Funtoosh Nagar, solve complicated problems in their uncanny and funny ways.",
+        "image":"https://i.ibb.co/ZT1jk7r/K4.jpg",
+        "year": 2020,
+        "language":"hindi"
+
+        
+    } 
+    ,
+    {
+        "id": ,
+        "category_id":4 ,
+        "name":"",
+        "age":"13+",
+        "description":"",
+        "image":"",
+        "year": 2021,
+        "language":
+
+        
+    } 
+    ,
+    {
+        "id": ,
+        "category_id":4 ,
+        "name":"",
+        "age":"13+",
+        "description":"",
+        "image":"",
+        "year": 2021,
+        "language":
+
+        
+    } 
+    ,
+    {
+        "id": ,
+        "category_id":4 ,
+        "name":"",
+        "age":"13+",
+        "description":"",
+        "image":"",
+        "year": 2021,
+        "language":
+
+        
+    } 
+    ,
+    {
+        "id": ,
+        "category_id":4 ,
+        "name":"",
+        "age":"13+",
+        "description":"",
+        "image":"",
+        "year": 2021,
+        "language":
+
+        
+    } 
+    ,
+    {
+        "id": ,
+        "category_id":4 ,
+        "name":"",
+        "age":"13+",
+        "description":"",
+        "image":"",
+        "year": 2021,
+        "language":
+
+        
+    } 
+    ,
+    {
+        "id": ,
+        "category_id":4 ,
+        "name":"",
+        "age":"13+",
+        "description":"",
+        "image":"",
+        "year": 2021,
+        "language":
+
+        
+    } 
+    ,
+    {
+        "id": ,
+        "category_id":4 ,
+        "name":"",
+        "age":"13+",
+        "description":"",
+        "image":"",
+        "year": 2021,
+        "language":
+
+        
+    } 
+    ,
+    
+
+
+
+]
